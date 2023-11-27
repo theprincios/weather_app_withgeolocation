@@ -17,7 +17,7 @@ class CurrentLocationService extends _$CurrentLocationService {
 
   Future<Address> getDetail(
       {required double latitude, required double longitude}) async {
-    final coordinates = new Coordinates(latitude, longitude);
+    final coordinates =  Coordinates(latitude, longitude);
     final address = await Geocoder.google('apiKey')
         .findAddressesFromCoordinates(coordinates);
     return address.first;
