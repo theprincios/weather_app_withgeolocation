@@ -1,20 +1,5 @@
-# meteo_hybrid_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
+NOTA BENE : 
 
-In  lib/core/location/application/current_location_service.dart inserire un apiKey di google 
+In  lib/core/location/application/current_location_service.dart inserire un apiKey di google ![Screenshot 2023-11-27 alle 13 35 14](https://github.com/theprincios/weather_app_withgeolocation/assets/71023817/47d15f13-a70f-44d1-bb33-efae2c9b17c1)
